@@ -1,4 +1,4 @@
-![Agustín · Data science and research software. A series of probability curves splits into two peaks.](assets/profile.png)
+![A field of blue points folds into two translucent peaks, traced by a single orange curve.](assets/distribution-wave.webp)
 
 I work on classification problems where labels are scarce and the hard cases are worth a closer look. I build tools that let me follow an example through a model, recover a notebook after a failure, or find an experiment I left in a different terminal.
 
