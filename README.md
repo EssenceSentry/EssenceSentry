@@ -2,16 +2,21 @@
 
 [![Profile checks](https://github.com/EssenceSentry/EssenceSentry/actions/workflows/profile.yml/badge.svg?branch=main)](https://github.com/EssenceSentry/EssenceSentry/actions/workflows/profile.yml)
 
-I work on classification problems where labels are scarce and the hard cases are worth a closer look. I build tools that let me follow an example through a model, recover a notebook after a failure, or find an experiment I left in a different terminal.
+**Data science, inspectable models, dependable tools.**
 
-**Try Semantic Instruments.** Pick a point in the Space Explorer, inspect its nearest neighbors, then follow it from its embedding to the model’s output. [Which 100 items should I review? →](https://github.com/EssenceSentry/semantic-instruments/blob/main/docs/review-budget.md) · [Open the lab →](https://essencesentry.github.io/semantic-instruments/)
+I work on classification problems where labels are scarce and the hard cases deserve a closer look. These projects show how I connect mathematical reasoning with software people can inspect, use, and recover when something goes wrong.
 
-### From my workbench
+**Start with a five-minute example:** [which 100 items should I review?](https://github.com/EssenceSentry/semantic-instruments/blob/main/docs/review-budget.md) Compare two rankings, inspect their disagreements, then [open the interactive lab](https://essencesentry.github.io/semantic-instruments/).
 
-**ax + AX Widget** · My command-line workbench for Claude and Codex. I can search earlier sessions, detach a long-running command, and reattach to it later. Its Mac companion shows running work and opens a conversation where I left off. [Explore ax →](https://github.com/EssenceSentry/ax) · [See AX Widget →](https://github.com/EssenceSentry/ax-widget)
+### Explore the work
 
-**Aside** · A Mac meeting companion that transcribes speech locally. I can correct a name in the transcript, find the original passage, and return to what was actually said. [Listen to the speech evaluation →](https://essencesentry.github.io/aside-macos/speech-evaluation/) · [Source →](https://github.com/EssenceSentry/aside-macos)
+| Project | What it demonstrates | Start here |
+| --- | --- | --- |
+| [Semantic Instruments](https://github.com/EssenceSentry/semantic-instruments) | Linked model inspection, ranking interventions, and sampling uncertainty | [Interactive lab](https://essencesentry.github.io/semantic-instruments/) |
+| [Probability Lab](https://github.com/EssenceSentry/probability-lab-teaching) | Bayesian reasoning made visible through graphs and individual posterior draws | [Partial-pooling lesson](https://essencesentry.github.io/probability-lab-teaching/?lesson=pooling) |
+| [Runwatch](https://github.com/EssenceSentry/runwatch) | Notebook execution, observability, and explicit recovery after failure | [Recovery walkthrough](https://github.com/EssenceSentry/runwatch/tree/main/examples/recovery) |
+| [Aside](https://github.com/EssenceSentry/aside-macos) | Local speech recognition, editable transcripts, and source preservation on macOS | [Listen to the evaluation](https://essencesentry.github.io/aside-macos/speech-evaluation/) |
+| [ax](https://github.com/EssenceSentry/ax) + [AX Widget](https://github.com/EssenceSentry/ax-widget) | Persistent command execution, session recall, and a native Mac companion | [Watch reattachment](https://github.com/EssenceSentry/ax/blob/main/docs/reattach.md) |
+| [Atelier](https://github.com/EssenceSentry/atelier) | Reusable interfaces and project generation with built-in quality checks | [Starter to finished app](https://essencesentry.github.io/atelier/?s=examples) |
 
-**Atelier** · The starter kit I use for review stations, live monitors, and interactive labs. Aside’s interface and my Probability Lab both started here. The latter lets me follow a single draw through a probabilistic model. [Compare the starter and finished app →](https://essencesentry.github.io/atelier/?s=examples) · [Try Probability Lab →](https://essencesentry.github.io/probability-lab-teaching/?lesson=pooling)
-
-**Runwatch** · A notebook runner for experiments that take a while. When a cell fails, I can inspect the live state, repair the code, and resume from the failure. [See how recovery works →](https://github.com/EssenceSentry/runwatch/tree/main/examples/recovery)
+The READMEs lead to working examples, evaluation evidence, and implementation details. Each project makes its assumptions and current limits explicit.
