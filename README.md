@@ -6,10 +6,10 @@ I work on classification problems where labels are scarce and the hard cases are
 
 ### From my workbench
 
-**ax + AX Widget** · My command-line workbench for Claude and Codex. I can search earlier sessions, detach a long-running command, and reattach to it later. Its Mac companion shows running work and opens a conversation where I left off. [Explore ax →](https://github.com/EssenceSentry/agent-skills/tree/ax-workbench)
+**ax + AX Widget** · My command-line workbench for Claude and Codex. I can search earlier sessions, detach a long-running command, and reattach to it later. Its Mac companion shows running work and opens a conversation where I left off. [Explore ax →](https://github.com/EssenceSentry/agent-skills/tree/ax-workbench) · [See AX Widget →](https://github.com/EssenceSentry/ax-widget)
 
-**Aside** · A Mac meeting companion that transcribes speech locally. I can correct a name in the transcript, find the original passage, and return to what was actually said.
+**Aside** · A Mac meeting companion that transcribes speech locally. I can correct a name in the transcript, find the original passage, and return to what was actually said. [Explore Aside for macOS →](https://github.com/EssenceSentry/aside-macos)
 
-**Atelier** · The starter kit I use for review stations, live monitors, and interactive labs. Aside’s interface and my Probability Lab both started here. The latter lets me follow a single draw through a probabilistic model.
+**Atelier** · The starter kit I use for review stations, live monitors, and interactive labs. Aside’s interface and my Probability Lab both started here. The latter lets me follow a single draw through a probabilistic model. [Explore Atelier →](https://github.com/EssenceSentry/atelier) · [Try Probability Lab →](https://essencesentry.github.io/probability-lab-teaching/)
 
 **Runwatch** · A notebook runner for experiments that take a while. When a cell fails, I can inspect the live state, repair the code, and resume from the failure. [See how recovery works →](https://github.com/EssenceSentry/runwatch#failure-and-recovery)
