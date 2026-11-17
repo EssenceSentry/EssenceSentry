@@ -1,5 +1,7 @@
 ![A field of blue points folds into two translucent peaks, traced by a single orange curve.](assets/distribution-wave.webp)
 
+[![Profile checks](https://github.com/EssenceSentry/EssenceSentry/actions/workflows/profile.yml/badge.svg?branch=main)](https://github.com/EssenceSentry/EssenceSentry/actions/workflows/profile.yml)
+
 I work on classification problems where labels are scarce and the hard cases are worth a closer look. I build tools that let me follow an example through a model, recover a notebook after a failure, or find an experiment I left in a different terminal.
 
 **Try Semantic Instruments.** Pick a point in the Space Explorer, inspect its nearest neighbors, then follow it from its embedding to the model’s output. [Which 100 items should I review? →](https://github.com/EssenceSentry/semantic-instruments/blob/main/docs/review-budget.md) · [Open the lab →](https://essencesentry.github.io/semantic-instruments/)
